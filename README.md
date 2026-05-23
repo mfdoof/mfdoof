@@ -1,8 +1,22 @@
-I'm Maverick,  
-BSIT student with a focus on System Administration and Cybersecurity.     
+<pre>
+██████╗  ██████╗  ██████╗ ███████╗
+██╔══██╗██╔═══██╗██╔═══██╗██╔════╝
+██║  ██║██║   ██║██║   ██║█████╗  
+██║  ██║██║   ██║██║   ██║██╔══╝  
+██████╔╝╚██████╔╝╚██████╔╝██║     
+╚═════╝  ╚═════╝  ╚═════╝ ╚═╝     
+</pre>
 
-**I enjoy troubleshooting!!** There's something satisfying about diagnosing   
-a problem and working it down to the root cause.
+---
 
-Tools & Tech: Linux · Windows · Python    
-Current Project: [it-support-labs](https://github.com/mfdoof/it-support-labs)
+I'm Maverick,
+BSIT student with a focus on System Administration and Cybersecurity.
+
+**I enjoy troubleshooting!!**   
+There's something satisfying about diagnosing a problem and working it down to the root cause.
+
+🔧 Tools & Tech: `Linux` `Windows` `Python`  
+📁 Current Project: [it-support-labs](https://github.com/mfdoof/it-support-labs)
+
+
+
