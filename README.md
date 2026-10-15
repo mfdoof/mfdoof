@@ -18,7 +18,7 @@ There's something satisfying about diagnosing a problem and working it down to t
 🔧 Tools & Tech: `Linux` `Windows` `Python`  
 📁 Current Project: [it-support-labs](https://github.com/mfdoof/it-support-labs)
 
-Portfolio: doof.quest
+Portfolio: [doof.quest](https://doof.quest)
 
 
 
